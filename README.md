@@ -1,4 +1,4 @@
-<img width="705" height="50" alt="image" src="https://github.com/user-attachments/assets/8f18ca80-ff7c-46ea-a3eb-f9afb274dbc2" /># **Employee Insights Dashboard**
+# **Employee Insights Dashboard**
 
 **📌Project Overview**
 
