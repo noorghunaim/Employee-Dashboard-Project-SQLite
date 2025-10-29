@@ -1,4 +1,4 @@
-# **Employee Insights Dashboard**
+<img width="705" height="50" alt="image" src="https://github.com/user-attachments/assets/8f18ca80-ff7c-46ea-a3eb-f9afb274dbc2" /># **Employee Insights Dashboard**
 
 **📌Project Overview**
 
@@ -34,4 +34,19 @@ This project is ideal for:
 
 - Generating a clean employee dataset (500 North American employees) and Storing it in **SQLite**
 - Exploring the data with **SQL queries**
+  - Basic Query:
+    - Count employees per country:
+      
+      <img width="705" height="50" alt="image" src="https://github.com/user-attachments/assets/d67926b7-a371-4fbb-9a83-af0ec30d9ee7" />
+      
+  - Intermediate Query:
+    -  Employees with salary above company average:
+       
+       <img width="1153" height="176" alt="image" src="https://github.com/user-attachments/assets/99623e6b-43da-48ac-afa4-18418b55b3c3" />
+
+  - Advanced Query:
+    - Correlation-like grouping: salary vs experience:
+
+      <img width="1193" height="161" alt="image" src="https://github.com/user-attachments/assets/ef87e303-f2bd-46c7-bad7-333fa8184761" />
+
 - Creating an **interactive Power BI dashboard**
