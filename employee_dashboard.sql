@@ -58,6 +58,7 @@ SELECT performance_score, COUNT(*) AS COUNT from employee_data GROUP BY performa
 -- Query 14. Remote vs On-site employee count:
 SELECT remote_status, COUNT(*) AS COUNT FROM employee_data GROUP BY remote_status;
 
+-- Advanced Queries:
 -- Query. 15. Top 5 highest-paid employees:
 SELECT first_name, last_name, salary FROM employee_data ORDER BY salary DESC LIMIT 5;
 
